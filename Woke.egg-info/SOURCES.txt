@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+Woke/__init__.py
+Woke.egg-info/PKG-INFO
+Woke.egg-info/SOURCES.txt
+Woke.egg-info/dependency_links.txt
+Woke.egg-info/top_level.txt
